@@ -20,6 +20,7 @@
         "@types/react-date-range": "^1.4.9",
         "@types/react-dom": "^18.0.10",
         "@types/react-helmet": "^6.1.11",
+        "@types/ziggy-js": "^1.3.3",
         "@vitejs/plugin-react": "^4.2.0",
         "autoprefixer": "^10.4.12",
         "axios": "^1.7.7",
@@ -58,6 +59,7 @@
         "react-simple-star-rating": "^5.1.7",
         "react-usestateref": "^1.0.9",
         "swiper": "^12.0.2",
-        "use-debounce": "^10.0.1"
+        "use-debounce": "^10.0.1",
+        "ziggy-js": "^2.6.0"
     }
 }
