@@ -11,4 +11,12 @@ export default defineConfig({
         }),
         react(),
     ],
+    build: {
+        outDir: 'dist', // <-- this is the folder Vercel expects
+        rollupOptions: {
+            input: {
+                main: path.resolve(__dirname, 'resources/js/app.tsx'),
+            },
+        },
+    },
 });
