@@ -1,0 +1,12 @@
+/* styles.css */
+.rdrInRange {
+    background-color: #3C4F5D !important; /* Change this to your desired color */
+}
+
+.rdrSelected {
+    background-color: #f33e5b !important; /* Change this to your desired selected color */
+}
+
+.rdrDay:hover {
+    background-color: #e0e0e0 !important; /* Change hover color if needed */
+}
